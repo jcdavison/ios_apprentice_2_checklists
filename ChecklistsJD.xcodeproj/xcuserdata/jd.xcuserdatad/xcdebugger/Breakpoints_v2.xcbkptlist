@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChecklistsJD/AppDelegate.swift"
+            timestampString = "505413252.400317"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AppDelegate.__deallocating_deinit"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AppDelegate.swift"
+                  timestampString = "505413252.563114"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AppDelegate.init () -&gt; ChecklistsJD.AppDelegate"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AppDelegate.swift"
+                  timestampString = "505413252.571059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AppDelegate.__allocating_init () -&gt; ChecklistsJD.AppDelegate"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AppDelegate.swift"
+                  timestampString = "505413252.573658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AppDelegate.swift"
+                  timestampString = "505413252.576461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChecklistsJD/AllListsViewController.swift"
+            timestampString = "505666022.748322"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AllListsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.__deallocating_deinit"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.91569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.init (style : __C.UITableViewStyle) -&gt; ChecklistsJD.AllListsViewController"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.918338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; ChecklistsJD.AllListsViewController"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.920428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ChecklistsJD.AllListsViewController"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.922162"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ChecklistsJD.AllListsViewController"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.92385"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ChecklistsJD.AllListsViewController&gt;"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.925438"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChecklistsJD.AllListsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ChecklistsJD.AllListsViewController&gt;"
+                  moduleName = "ChecklistsJD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jd/startuplandia/ios/ChecklistsJD/ChecklistsJD/AllListsViewController.swift"
+                  timestampString = "505477804.926997"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
